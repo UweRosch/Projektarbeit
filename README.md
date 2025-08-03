@@ -1,2 +1,2 @@
 # Projektarbeit
-Projektarbeit AI Engineer - Uwe Rösch
+Projektarbeit AI Engineer
